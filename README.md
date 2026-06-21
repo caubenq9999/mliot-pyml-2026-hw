@@ -89,4 +89,4 @@ pip install -r requirements.txt
 
 ---
 
-*Machine Learning & IoT Lab — Khoa Điện–Điện tử, Đại học Bách Khoa TP.HCM*
+*Machine Learning & IoT Lab — Khoa Điện–Điện tử, Đại học Bách khoa - ĐHQG TP.HCM*
